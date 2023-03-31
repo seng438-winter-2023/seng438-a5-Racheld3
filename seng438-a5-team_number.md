@@ -25,9 +25,11 @@ To be able to compare all the models we were able to go to the Model Comparison 
 Result of range analysis
 ---------------------------------------
 MVT Graph:
-
+![Only2BestModels](https://user-images.githubusercontent.com/76859857/229030935-fb8accb6-54ca-4e93-9258-a21267038fa4.png)
 
 Intensity Graph:
+![OnlyBest2ModelsIntensityGraph](https://user-images.githubusercontent.com/76859857/229030983-1a4b6ac0-e457-4c4f-a15c-dffe6a69311a.png)
+
 
 Plots for failure rate and reliability of the SUT for the test data
 --------------------------------------------------------------------
