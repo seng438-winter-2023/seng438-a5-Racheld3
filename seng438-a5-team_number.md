@@ -16,8 +16,9 @@ In a much similar fashion to the previous assignments in this course, we were gi
 # Assessment Using Reliability Growth Testing 
 Result of model comparison (selecting top two models)
 ----------------------------------------------------------
+![AllModelsGraph](https://user-images.githubusercontent.com/76859857/229024877-6fec0c14-cc21-4032-adb8-4ecbf0b88225.png)
 
-
+![logLikelihood](https://user-images.githubusercontent.com/76859857/229024910-f9ae3991-70f9-4fe9-9a0c-c644df1050be.png)
 
 Result of range analysis
 ---------------------------------------
