@@ -16,13 +16,18 @@ In a much similar fashion to the previous assignments in this course, we were gi
 # Assessment Using Reliability Growth Testing 
 Result of model comparison (selecting top two models)
 ----------------------------------------------------------
+By using C-SFRAT we were able to import our excel sheet into the testing tool, which generated our graph in the Model Results and Predictions section.
 ![AllModelsGraph](https://user-images.githubusercontent.com/76859857/229024877-6fec0c14-cc21-4032-adb8-4ecbf0b88225.png)
 
+To be able to compare all the models we were able to go to the Model Comparison section. We filtered this table from the largest to smallest log-likelihood. Log-likelihood is a statistical concept that measures how well any statistical model fits a set of observed data. This means the filter we chose to generate our table by shows which model closley fits with out failure data.
 ![logLikelihood](https://user-images.githubusercontent.com/76859857/229024910-f9ae3991-70f9-4fe9-9a0c-c644df1050be.png)
 
 Result of range analysis
 ---------------------------------------
+MVT Graph:
 
+
+Intensity Graph:
 
 Plots for failure rate and reliability of the SUT for the test data
 --------------------------------------------------------------------
