@@ -11,7 +11,7 @@
 | Isaiah Lemieux            |
 
 # Introduction
-In a much similar fashion to the previous assignments in this course, we were given another opportunity to put into practice: the knowledge we have been acquiring throughout our lectures. We were expected to install and use a reliability growth assessment tool we chose The Covariate Software Failure and Reliability Assessment Tool (C-SFRAT). This is an open source application which applies covariate software reliability models.
+In a much similar fashion to the previous assignments in this course, we were given another opportunity to put into practice: the knowledge we have been acquiring throughout our lectures. We were expected to install and use a reliability growth assessment tool we chose the Covariate Software Failure and Reliability Assessment Tool (C-SFRAT). This is an open source application which applies covariate software reliability models.
 
 # Assessment Using Reliability Growth Testing 
 Result of model comparison (selecting top two models)
