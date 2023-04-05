@@ -33,8 +33,7 @@ MVT Graph:
 ![Screenshot 2023-04-05 124950](https://user-images.githubusercontent.com/76859857/230217208-9819b0fb-3f03-4568-beec-8e235bc93e85.png)
 
 Intensity Graph:
-![OnlyBest2ModelsIntensityGraph](https://user-images.githubusercontent.com/76859857/229030983-1a4b6ac0-e457-4c4f-a15c-dffe6a69311a.png)
-
+![Screenshot 2023-04-05 125024](https://user-images.githubusercontent.com/76859857/230217354-3cc03909-222e-46f9-a008-0cc5aa5ee490.png)
 
 
 
