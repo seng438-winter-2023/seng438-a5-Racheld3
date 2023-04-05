@@ -80,8 +80,8 @@ We divided the team work by getting two team members to work on the Reliability 
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
-Our team had a very challenging time at first trying to learn and set up the functionality of the C-SFRAT testing environment. We found it difficult at first to know how to complete the model ranking. We overcame this challenge by going through the "A covariate software tool to guide test activity allocation" link provided on the assignment sheet which provided a lot of direction on how to generate the graphs.
-Additionally, when introducing ourselves to the RDC excel file, even after reading the accompanying RDC overview and lecture slides regarding RDC, it was still extremely difficult to get comfortable using the RDC file, and understanding the general procedure for using it.
+Our team had a very challenging time at first trying to learn and set up the functionality of the C-SFRAT testing environment. We found it difficult at first to know how to complete the model ranking. We overcame this challenge by going through the "A covariate software tool to guide test activity allocation" link provided on the assignment sheet which provided a lot of direction on how to generate the graphs. Additionally, when introducing ourselves to the RDC excel file, even after reading the accompanying RDC overview and lecture slides regarding RDC, it was still extremely difficult to get comfortable using the RDC file, and understanding the general procedure for using it. 
+One of the lessons learned while generating graphs using C-SFRAT was that we had to convert the times to hours, since the first time me generated all the plots of the graphs we used seconds and we saw that this did generate incorrect results.
 
 
 # Comments/feedback on the lab itself
