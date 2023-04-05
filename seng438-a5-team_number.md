@@ -17,10 +17,11 @@ In a much similar fashion to the previous assignments in this course, we were gi
 Result of model comparison (selecting top two models)
 ----------------------------------------------------------
 By using C-SFRAT we were able to import our excel sheet of faliure data set 2 into the testing tool, which generated our graph in the Model Results and Predictions section.
-![Screenshot 2023-04-05 150507](https://user-images.githubusercontent.com/76859857/230216864-28c8032e-cff6-4c54-b8fe-057fd0994976.png)
+![NEWAllMVT](https://user-images.githubusercontent.com/76859857/230229747-27e6b89b-81d5-430b-801b-b22a1b58436b.png)
+
 
 To be able to compare all the models we were able to go to the Model Comparison section. We filtered this table from the largest to smallest log-likelihood. Log-likelihood is a statistical concept that measures how well any statistical model fits a set of observed data. This means the filter we chose to generate our table by shows which model closley fits with out failure data.
-![Screenshot 2023-04-05 124813](https://user-images.githubusercontent.com/76859857/230216955-c6518860-85e2-4ba6-bbe4-a68069c62d76.png)
+![NEWComparison](https://user-images.githubusercontent.com/76859857/230229766-509cc067-748d-4d0b-8d5a-2fee83b054e9.png)
 
 
 Result of range analysis
@@ -31,10 +32,11 @@ Based on our range analysis
 Plots for failure rate and reliability of the SUT for the test data
 --------------------------------------------------------------------
 MVT Graph:
-![Screenshot 2023-04-05 124950](https://user-images.githubusercontent.com/76859857/230217208-9819b0fb-3f03-4568-beec-8e235bc93e85.png)
+![NEWTop2MVT](https://user-images.githubusercontent.com/76859857/230229801-ced19820-35da-4a06-82d7-8c68fb2cef76.png)
 
 Intensity Graph:
-![Screenshot 2023-04-05 125024](https://user-images.githubusercontent.com/76859857/230217354-3cc03909-222e-46f9-a008-0cc5aa5ee490.png)
+
+![NEWTop2Intensity](https://user-images.githubusercontent.com/76859857/230229873-f69e0650-8b60-43f0-9875-e693b5df2cb6.png)
 
 Reliability Graph: 
 We used SRTAT to generate this graph.
