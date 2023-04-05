@@ -35,6 +35,10 @@ MVT Graph:
 Intensity Graph:
 ![Screenshot 2023-04-05 125024](https://user-images.githubusercontent.com/76859857/230217354-3cc03909-222e-46f9-a008-0cc5aa5ee490.png)
 
+Reliability Graph: 
+We used SRTAT to generate this graph.
+![Screenshot 2023-04-05 153204](https://user-images.githubusercontent.com/76859857/230218702-5ba33132-5ce3-4497-9ce5-51217b0adfe9.png)
+
 
 
 # Assessment Using Reliability Demonstration Chart 
