@@ -25,6 +25,7 @@ To be able to compare all the models we were able to go to the Model Comparison 
 
 Result of range analysis
 ---------------------------------------
+Based on our range analysis 
 
 
 Plots for failure rate and reliability of the SUT for the test data
@@ -61,7 +62,7 @@ Explain your evaluation and justification of deciding the MTTFmin
 -------------------------------------------------------------------
 When deciding MTTFmin, we wanted to make sure that all data points on the RDC using our failure data was safely in the acceptable region. In order to achieve this, we had to alter the value for our FIO (Failure Intensity Objective), the inverse of MTTF. After slowly increasing FIO until the entire chart was within the acceptable region, our resulting FIO was 67 failures per 10000 calls.
 
-A discussion on the advantages and disadvantages of RDC
+A discussion on the advantages and disadvantages of RDC Testing
 -----------------------------------------------------------------
 
 # Comparison of Results Between Reliablity and RDC Testing
@@ -73,7 +74,7 @@ A discussion on the advantages and disadvantages of RDC
 
 
 # How the team work/effort was divided and managed
-
+We divided the team work by getting two team members to work on the Reliability Growth Testing, and the other two memebers to work through RDC Testing. Then to ensure work was done correctly for both sections and graphs were generated properly we had the two team memebers explain to eachother how the assesment of testing was done. Then both pairs of two switched and re-generated the graphs they were not reponsible for the first time to ensure plots were generated correctly.
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
