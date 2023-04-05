@@ -30,7 +30,7 @@ Result of range analysis
 Plots for failure rate and reliability of the SUT for the test data
 --------------------------------------------------------------------
 MVT Graph:
-![Only2BestModels](https://user-images.githubusercontent.com/76859857/229030935-fb8accb6-54ca-4e93-9258-a21267038fa4.png)
+![Screenshot 2023-04-05 124950](https://user-images.githubusercontent.com/76859857/230217208-9819b0fb-3f03-4568-beec-8e235bc93e85.png)
 
 Intensity Graph:
 ![OnlyBest2ModelsIntensityGraph](https://user-images.githubusercontent.com/76859857/229030983-1a4b6ac0-e457-4c4f-a15c-dffe6a69311a.png)
