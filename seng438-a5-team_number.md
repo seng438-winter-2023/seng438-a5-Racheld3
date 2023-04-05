@@ -55,7 +55,7 @@ MTTFmin * 0.5
 
 Explain your evaluation and justification of deciding the MTTFmin
 -------------------------------------------------------------------
-
+When deciding MTTFmin, we wanted to make sure that all data points on the RDC using our failure data was safely in the acceptable region. In order to achieve this, we had to alter the value for our FIO (Failure Intensity Objective), the inverse of MTTF. After slowly increasing FIO until the entire chart was within the acceptable region, our resulting FIO was 67 failures per 10000 calls.
 
 A discussion on the advantages and disadvantages of RDC
 -----------------------------------------------------------------
@@ -74,6 +74,7 @@ A discussion on the advantages and disadvantages of RDC
 
 # Difficulties encountered, challenges overcome, and lessons learned
 Our team had a very challenging time at first trying to learn and set up the functionality of the C-SFRAT testing environment. We found it difficult at first to know how to complete the model ranking. We overcame this challenge by going through the "A covariate software tool to guide test activity allocation" link provided on the assignment sheet which provided a lot of direction on how to generate the graphs.
+Additionally, when introducing ourselves to the RDC excel file, even after reading the accompanying RDC overview and lecture slides regarding RDC, it was still extremely difficult to get comfortable using the RDC file, and understanding the general procedure for using it.
 
 
 # Comments/feedback on the lab itself
