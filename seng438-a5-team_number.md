@@ -58,15 +58,15 @@ A discussion on the advantages and disadvantages of reliability growth analysis
 # Assessment Using Reliability Demonstration Chart 
 3 plots for MTTFmin, twice and half of it for your test data
 --------------------------------------------------------------------
-MTTFmin
+MTTFmin Plot:
 
 ![image](https://user-images.githubusercontent.com/101215683/230160531-23307e4b-423d-4f7f-96d4-35c82a11d061.png)
 
-MTTFmin * 2
+MTTFmin * 2 Plot:
 
 ![image](https://user-images.githubusercontent.com/101215683/230160760-4d336175-6e8e-4e24-9abe-b75752233a16.png)
 
-MTTFmin * 0.5
+MTTFmin * 0.5 Plot:
 
 ![image](https://user-images.githubusercontent.com/101215683/230160883-e204c17f-c6f6-48c2-9d7f-a40c58c2c32b.png)
 
