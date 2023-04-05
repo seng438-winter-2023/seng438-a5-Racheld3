@@ -43,6 +43,17 @@ We used SRTAT to generate this graph.
 ![Screenshot 2023-04-05 153204](https://user-images.githubusercontent.com/76859857/230218702-5ba33132-5ce3-4497-9ce5-51217b0adfe9.png)
 
 
+A discussion on decision making given a target failure rate
+-----------------------------------------------------------------------
+
+
+
+
+A discussion on the advantages and disadvantages of reliability growth analysis
+-----------------------------------------------------------------------------------
+
+
+
 
 # Assessment Using Reliability Demonstration Chart 
 3 plots for MTTFmin, twice and half of it for your test data
@@ -66,6 +77,7 @@ When deciding MTTFmin, we wanted to make sure that all data points on the RDC us
 
 A discussion on the advantages and disadvantages of RDC Testing
 -----------------------------------------------------------------
+
 
 # Comparison of Results Between Reliablity and RDC Testing
 
