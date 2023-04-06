@@ -77,7 +77,7 @@ When deciding MTTFmin, we wanted to make sure that all data points on the RDC us
 
 A discussion on the advantages and disadvantages of RDC Testing
 -----------------------------------------------------------------
-
+A major advantage of RDC testing is that the use of the chart provides a visual representation of a software's reliability, which makes analysis of the data and whether or not it is meeting necessary reliability levels. Additionally, because the data is charted, RDC can make the visualization of reliability trends much more obvious, which can directly affect the result of a software that is about to be deployed for the better. A disadvantage of RDC is that it may sometimes not be the best approach for testing software that may expect a low amount of failures, as the failure data sample size may not be large enough to provide a meaningful representation of the data in order to draw conclusions on the reliability of the software. Another disadvantage, RDC does not take into account external factors when representing system reliability, and therefore, sometimes might not create an extremely accurate representation of reliability.
 
 # Comparison of Results Between Reliablity and RDC Testing
 
