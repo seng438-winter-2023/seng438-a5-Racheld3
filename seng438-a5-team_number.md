@@ -27,7 +27,7 @@ To be able to compare all the models we were able to go to the Model Comparison 
 Result of range analysis
 ---------------------------------------
 Based on our range analysis 
-
+![Laplace](https://github.com/seng438-winter-2023/seng438-a5-Racheld3/blob/main/Screenshots/Laplace.png)
 
 Plots for failure rate and reliability of the SUT for the test data
 --------------------------------------------------------------------
