@@ -26,7 +26,8 @@ To be able to compare all the models we were able to go to the Model Comparison 
 
 Result of range analysis
 ---------------------------------------
-Based on our range analysis 
+Using the Laplace transform, we completed an analysis of the failure data to determine the useful range of the data. As shown in the screenshot below, we created a graph of the Laplace transform, with the value of the transform on the Y-axis and the time interval on the X-axis. The graph represents the defects discovered over time, so to find the part of the graph which is considered reliable, we should look for a stable area of the graph with constant slope. By visually inspecting the graph, we determined that the range of useful data is between 21 and 46 on the X-axis.
+
 ![Laplace](https://github.com/seng438-winter-2023/seng438-a5-Racheld3/blob/main/Screenshots/Laplace.png)
 
 Plots for failure rate and reliability of the SUT for the test data
