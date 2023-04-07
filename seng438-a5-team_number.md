@@ -52,8 +52,11 @@ A discussion on decision making given a target failure rate
 
 A discussion on the advantages and disadvantages of reliability growth analysis
 -----------------------------------------------------------------------------------
+Advantages:
+Some advantages of reliability growth analysis include efficient resource allocation. This means the graphs created can help us determine which tests and tasks are effective at improving reliability. The graphs allow us to easily pin point the impact of changes in the project as we can see changes at specific times. As well, reliability growth analysis graphs are very good at showing time-dependant trends. This is an advantage when predicting how data would behave in the future are we are able to see all past behavior.
 
-
+Disadvantages:
+Some disdvantages of reliability growth analysis include that when graphs are generated using different tools but the same data set for example Excel, SRTAT or C-SFRAT, the results of the graphs can actually be different a lot of the time dependent on what tool is used. As well, results can also differ based on equations used in determining target failure of the system. Reliability growth analysis can also be a very time consuming process as their is a lot of data to analyze.
 
 
 # Assessment Using Reliability Demonstration Chart 
