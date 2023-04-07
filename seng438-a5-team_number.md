@@ -11,7 +11,7 @@
 | Isaiah Lemieux            |
 
 # Introduction
-In a much similar fashion to the previous assignments in this course, we were given another opportunity to put into practice: the knowledge we have been acquiring throughout our lectures. We were expected to install and use a reliability growth assessment tool we chose the Covariate Software Failure and Reliability Assessment Tool (C-SFRAT). This is an open source application which applies covariate software reliability models.
+In this last assignment of SENG 438, we were once again given the opportunity to put into practice the remainder of the knowledge we have been acquiring throughout our lectures, in a hands-on approach. The focus of this assignment was to utilize different reliability assessment tools to analyze integration test data. We were expected to install one of the two options of reliability growth assessment tools and we chose the Covariate Software Failure and Reliability Assessment Tool (C-SFRAT). This is an open source application which applies covariate software reliability models. We used this tool for the first part of this assignment and we then used the Excel Worksheet and Macro: RDC-11, for the second part.
 
 # Assessment Using Reliability Growth Testing 
 Result of model comparison (selecting top two models)
