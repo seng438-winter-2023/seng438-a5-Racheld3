@@ -46,9 +46,7 @@ We used SRTAT to generate this graph.
 
 A discussion on decision making given a target failure rate
 -----------------------------------------------------------------------
-Using the Laplace transform, we completed an analysis of the failure data to determine the useful range of the data. As shown in the screenshot below, we created a graph of the Laplace transform, with the value of the transform on the Y-axis and the time interval on the X-axis. The graph represents the defects discovered over time, so to find the part of the graph which is considered reliable, we should look for a stable area of the graph with constant slope. By visually inspecting the graph, we determined that the range of useful data is between 21 and 46 on the X-axis.
-
-![Laplace](https://github.com/seng438-winter-2023/seng438-a5-Racheld3/blob/main/Screenshots/Laplace.png)
+Setting a target failure rate is an important part of software reliability engineering. This is a benchmark for how reliable the software needs to be, thus development and testing should focus on achieving this goal. Failure data should be collected continuously to ensure that the failure rate remains at or below the target. If not, the developers should take steps to reduce the failure rate, such as further testing and debugging, a redesign of all or part of the project, or a re-evaluation of the failure target rate. 
 
 
 A discussion on the advantages and disadvantages of reliability growth analysis
