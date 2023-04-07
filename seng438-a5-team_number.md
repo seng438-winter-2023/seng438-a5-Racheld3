@@ -85,10 +85,10 @@ A major advantage of RDC testing is that the use of the chart provides a visual 
 
 # Comparison of Results Between Reliablity and RDC Testing
 
+After entering failure data from failure set 2 into the correct cells in the RDC excel file, we then analyzed the resulting chart to deduce the MTTFmin, which we found through the FIO. The max FIO to ensure the failure data would be safely situated within the acceptable region of the chart was 67 faulures per 10000 calls. Inversely, the minimum number of calls before failure is 149 calls. Meaning that, with an FIO of 67 failures per 10000 calls, the test shows strong evidence that the SUT would acheive this FIO.
 
 # Discussion on Similarity and Differences of the Two Techniques
 For the similarity between the two techniques we utilized in this assignment, both the Reliability Growth Assessment Tools and the Reliability Demonstration Chart (RDC) aim to make sense of the failure rate of a system and what a failure means to that system as well as assess its reliability. The difference between the two is their different assessment criteria. The reliability growth assessment tool is able to measure the failure rate, MTTF and reliability of the SUT by analyzing test data. Whereas the RDC checks whether that target failure rate or MTTF is met, which then allows us to decide the adequacy of the testing. Therefore as its name suggest the reliability growth assessment tool evaluates the advancement of reliability growth, and the reliability demonstration chart helps to showcase that the system has met a specific target.
-
 
 
 # How the team work/effort was divided and managed
