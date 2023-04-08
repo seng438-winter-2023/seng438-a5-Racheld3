@@ -37,6 +37,8 @@ MVT Graph:
 
 Intensity Graph:
 
+The x-axis indicates units of time and the y-axis indicates failure intensity.
+
 ![NEWTop2Intensity](https://user-images.githubusercontent.com/76859857/230229873-f69e0650-8b60-43f0-9875-e693b5df2cb6.png)
 
 Reliability Graph: 
@@ -84,6 +86,7 @@ A major advantage of RDC testing is that the use of the chart provides a visual 
 
 # Comparison of Results Between Reliablity and RDC Testing
 
+Using reliability testing tools, C-SFRAT and SRTAT, we were able to generate several graphs to model the reliability of the SUT. Firstly, using C-SFRAT, we generated an MVT graph, showing the mean time between failures over time. Based on this graph's linearity, we can see how the MTBF stays relatively constant over time, indicating that the system is fairly consistent in its reliability. Next, we generated an intensity graph showing the failure intensity over time. From this graph we can see that the failures occur at a consistent frequency, around every 10 units of time. For each graph, the most well-fitting models were applied, which fit the actual data accurately. Next, using SRTAT, we generated a reliability graph, showing time as a function of the failure number. From this graph, we can see that as the failture number increases, the time becomes exponentially larger, showing a slight increase in reliability over time. 
 After entering failure data from failure set 2 into the correct cells in the RDC excel file, we then analyzed the resulting chart to deduce the MTTFmin, which we found through the FIO. The max FIO to ensure the failure data would be safely situated within the acceptable region of the chart was 67 faulures per 10000 calls. Inversely, the minimum number of calls before failure is 149 calls. Meaning that, with an FIO of 67 failures per 10000 calls, the test shows strong evidence that the SUT would acheive this FIO.
 
 # Discussion on Similarity and Differences of the Two Techniques
@@ -91,7 +94,7 @@ For the similarity between the two techniques we utilized in this assignment, bo
 
 
 # How the team work/effort was divided and managed
-We divided the team work by getting two team members to work on the Reliability Growth Testing, and the other two memebers to work through RDC Testing. Then to ensure work was done correctly for both sections and graphs were generated properly we had the two team memebers explain to eachother how the assesment of testing was done. Then both pairs of two switched and re-generated the graphs they were not reponsible for the first time to ensure plots were generated correctly.
+We divided the team work by getting two team members to work on the Reliability Growth Testing, and the other two memebers to work through RDC Testing. Then to ensure work was done correctly for both sections and graphs were generated properly we had the two team members explain to eachother how the assesment of testing was done. Then both pairs of two switched and re-generated the graphs they were not reponsible for the first time to ensure plots were generated correctly.
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
